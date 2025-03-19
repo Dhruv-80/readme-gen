@@ -24,7 +24,7 @@ const Home = () => {
     setGeneratedReadme('Generating README...');
 
     try {
-      const response = await fetch('http://localhost:5000/generate-readme', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/generate-readme`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
