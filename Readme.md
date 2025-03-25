@@ -4,6 +4,10 @@
 
 This project is a React application built with TypeScript, Vite, and Tailwind CSS, designed to generate README files for GitHub repositories.  It leverages an external API (indicated by `import.meta.env.VITE_API_URL`) to perform the README generation, likely based on analysis of the provided repository name. The application includes a user interface with components for inputting repository details, previewing the generated README, and downloading or copying the result.  The UI features a dark mode toggle and utilizes 3D background effects with the `vanta` library.
 
+<img width="1440" alt="Screenshot 2025-03-25 at 8 41 00 PM" src="https://github.com/user-attachments/assets/d912622e-fd07-4078-810e-b520f380fd3b" />
+
+<img width="1440" alt="Screenshot 2025-03-25 at 8 40 28 PM" src="https://github.com/user-attachments/assets/0d76a97e-15de-48af-aef1-0505868303ce" />
+
 
 ## 2. Project Structure
 
@@ -62,17 +66,12 @@ Based on the code, the application uses a single API endpoint:
 5. Create a pull request
 
 
-## 7. License
+## 7. Contact
 
-[Specify License Here]
-
-
-## 8. Contact
-
-For any questions or feedback, please contact [Your Email Address or Contact Information].
+For any questions or feedback, please contact naadamund@gmail.com.
 
 
-## 9. Acknowledgements
+## 8. Acknowledgements
 
 * **React:**  A JavaScript library for building user interfaces.
 * **TypeScript:** A superset of JavaScript that adds static typing.
