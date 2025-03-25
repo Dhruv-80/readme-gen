@@ -1,4 +1,4 @@
-# Vite + React + TypeScript Starter
+# README GEN V1
 
 ## 1. Overview
 
